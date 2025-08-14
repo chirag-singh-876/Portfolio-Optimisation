@@ -115,4 +115,5 @@ For questions, improvements, or collaboration, feel free to reach out!
 
 ---
 
-*Built with ❤️ by Vaibhav — Engineering Student at IIT Madras*
+*Built with ❤️ by Chirag — Engineering Student at IIT Madras*
+
