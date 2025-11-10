@@ -51,7 +51,7 @@ This project implements a portfolio optimization tool using Monte Carlo simulati
 You can install the Python packages via:
 
 ```bash
-pip install pandas plotly yfina
+pip install pandas plotly yfinance
 ```
 
 ---
@@ -62,6 +62,13 @@ pip install pandas plotly yfina
 
 - Use the sample data files in `Sample Data/` for a quick start.
 - The file `stocks_with_DailyReturns.csv` contains precomputed daily returns for 10 assets.
+- Else you can Download Market Data by running below command
+```bash
+python Download\ Historical\ Stocks\ Data.py 
+g++ -std=c++11 -O2 -I. Daily\ Returns.cpp -o out
+./out
+```
+
 
 ### Step 2: Build and run C++ simulation
 

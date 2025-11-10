@@ -1,6 +1,6 @@
-#include "matrix.hpp"
-#include "utils.hpp"
-#include "portfolio.hpp"
+#include "Matrix.hpp"
+#include "Utils.hpp"
+#include "Portfolio.hpp"
 #include <fstream>
 #include <sstream>
 #include <string>

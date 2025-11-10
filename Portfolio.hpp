@@ -1,7 +1,7 @@
 #ifndef PORTFOLIO_HPP
 #define PORTFOLIO_HPP
 
-#include "matrix.hpp"
+#include "Matrix.hpp"
 #include <vector>
 #include <numeric> // std::accumulate
 #include <cmath>
